@@ -1,0 +1,6 @@
+{
+  "name": "BioNexus - Deep Molecular & Structural Biology Studio",
+  "description": "Interactive macromolecular 3D viewer (AlphaFold DB & PDB), chemical conformer engine, ClinVar mutation surveyor, and AI-driven structural biology intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
